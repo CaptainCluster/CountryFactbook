@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana, arial, sans-serif;
+    background-color: #ffffff;
+    
+  }
+  td{
+    padding: 6px;
+    border-bottom: 1px solid gray;
+  }
+  th{
+    background-color: "b#7d0ff";
+    font: bold;
+    padding: 12px 0px 12px 6px;
+    border-bottom: 2px solid gray;
+  }
+  table{
+    border-collapse: collapse;
+    font-size: 16px;
+    text-align: left;
+    table-layout: fixed;
+    width: 100%;
+  }
+  h1{
+    text-align: center;
+  }
+  tbody{
+    background-color: #F2F2F2;
+  }
+  thead{
+    background-color: #b7d0ff;
+  }  
+  .chart{
+    width: 27700px;
+    background-color: whitesmoke;
+  }
+  button{
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  .clicked{
+    background-color: #0052aa;
+  }
